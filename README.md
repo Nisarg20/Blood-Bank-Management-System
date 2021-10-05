@@ -47,6 +47,7 @@
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#sample-images">Sample Images</a></li>
+    <li><a href="#flowchart">Flowchart</a></li>
   </ol>
 </details>
 
@@ -172,7 +173,11 @@ Contributions are what make the open source community such an amazing place to l
 * ### **User Login: My Donations**
 
   ![image](https://user-images.githubusercontent.com/70905787/135965343-9de41689-66f1-408c-a749-ec2f184f6755.png)
+  
 
+## Flowchart
+
+  ![flowchart](https://user-images.githubusercontent.com/70905787/135967717-1878cff2-e493-4cd6-a0d4-b837490580ae.JPG)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
