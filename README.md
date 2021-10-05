@@ -69,7 +69,7 @@ This online system is made using Python(tkinter) and SQLite3.
 ### Disadvantages
 * Does not keep track of big data.
 
-### Module
+### Modules
 
 * User: There are two type of user in this project donor and customer. Donor can register to the web site by giving his personal details like name, blood group, address, contact details etc. Once registration is done he can post his donation. Customer can register to the portal and view list of donors who are interested to donate blood. He can also search list of donors based on the blood group. Once he gets suitable donor he can directly contact the donor.
 * Admin: Admin is responsible to post all the information related to blood donation. Admin can view list of voluntary blood donors and help the needy by providing their information to blood bank and patients. Admin can send a blood request to other blood bank in case of emergency or shortage of blood.
