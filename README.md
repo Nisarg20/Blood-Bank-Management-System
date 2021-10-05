@@ -36,18 +36,17 @@
       <br/>
       <a href="#modules">modules</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-using">Built Using</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#sample-images">Sample Images</a></li>
   </ol>
 </details>
 
@@ -117,17 +116,6 @@ The Following are the external libraries that needs to be installed using the co
   pip install sqlite3
   ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -139,6 +127,51 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Sample Images
+
+* ### **Login Page**
+
+  ![image](https://user-images.githubusercontent.com/70905787/135963435-b2518b3c-3633-43d7-a481-ab995a078d87.png)
+  
+* ### **Sign-Up Page**
+
+  ![image](https://user-images.githubusercontent.com/70905787/135963608-31144241-66c9-4089-8334-f0893e883cc3.png)
+
+* ### **Admin Login: Home Page**
+
+  ![image](https://user-images.githubusercontent.com/70905787/135964125-fd5a60a9-f90f-49bc-85d2-cda3e43e1126.png)
+  
+* ### **Admin Login: Registered Users Page**
+  
+  ![image](https://user-images.githubusercontent.com/70905787/135964247-4d6fb78c-844d-49c1-b35d-7d479a746ca6.png)
+  
+* ### **Admin Login: User Activities Page**
+
+  ![image](https://user-images.githubusercontent.com/70905787/135964406-70d5024c-90a6-47ff-81e9-77c04985d5ef.png)
+  
+* ### **Admin Login: User Queries Page**
+  
+  ![image](https://user-images.githubusercontent.com/70905787/135964515-563eb80c-26d6-45ed-bd37-707940139cf2.png)
+
+* ### **User Login: Home Page**
+ 
+  ![image](https://user-images.githubusercontent.com/70905787/135964729-7ee421b1-5982-4926-a079-34650e2e7364.png)
+  
+* ### **User Login: My Requests**
+ 
+  ![image](https://user-images.githubusercontent.com/70905787/135964979-cd6052d7-487b-4264-a4e7-cef35fe70c57.png)
+
+* ### **User Login: Delete Requests**
+ 
+  ![image](https://user-images.githubusercontent.com/70905787/135965196-912e0e49-d17a-4dcc-8dfb-40b70f23ff68.png)
+ 
+* ### **User Login: Add Requests**
+ 
+  ![image](https://user-images.githubusercontent.com/70905787/135965196-912e0e49-d17a-4dcc-8dfb-40b70f23ff68.png)
+  
+* ### **User Login: My Donations**
+
+  ![image](https://user-images.githubusercontent.com/70905787/135965343-9de41689-66f1-408c-a749-ec2f184f6755.png)
 
 
 
